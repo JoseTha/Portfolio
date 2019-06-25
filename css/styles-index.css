@@ -6,13 +6,45 @@ a{
   color: grey;
 }
 body {
-  margin: auto;
+margin: auto;
   text-align: center;
 }
 .boy-pic {
   width: 10rem;
   margin: auto;
 }
+
+
+.contact-me {
+  background: #11cdd4;
+  background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+  background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  -webkit-border-radius: 7;
+  -moz-border-radius: 7;
+  border-radius: 7px;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #ffffff;
+  font-size: 15px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin:4rem;
+}
+
+.contact-me:hover {
+  background: #30e3cb;
+  background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
+
+
+
 
 .edu-cont{
   width:8rem;
@@ -33,23 +65,24 @@ body {
 }
 .fb-image{
   width: 2rem;
+  margin: .5rem;
 
 }
 
 .fourth-container {
-  width: 65rem;
+
   margin: auto;
   font-family: 'M PLUS Rounded 1c', sans-serif;
   color: grey;
-  padding: 1.5rem;
+  padding: 1.5rem 1.5rem 1.5rem 10rem;
 
 
 }
 .fifth-container{
-width: 65rem;
-margin: 3rem auto 5rem auto;
+
+margin: auto;
 text-align: right;
-padding: 1.5rem;
+padding: 1.5rem 20rem 1.5rem 1.5rem;
 
 }
 hr {
@@ -63,7 +96,7 @@ hr {
 }
 h2 {
   margin: auto;
-  color: #66bfbf;
+  color: #049889;
   padding-top: 3.75rem;
   font-family: 'Kaushan Script', serif;
   font-size: 5rem;
@@ -76,7 +109,7 @@ h3 {
   margin: auto;
 }
 h4 {
-  color: #66bfbf;
+  color: #049889;
   font-family: 'M PLUS Rounded 1c', sans-serif;
 }
 .Introduction {
@@ -85,6 +118,7 @@ h4 {
 }
 .linkedin-image{
   width: 2rem;
+  margin: .5rem;
 }
 .left-cloud {
   position: absolute;
@@ -109,8 +143,8 @@ margin: 2.5rem
   right: 18.75rem ;
 }
 .second-container {
-  width:auto;
-  background-color: #048998;
+
+  background-color: #66bfbf;
   padding-top: 6.25rem;
   position: relative;
 }
@@ -125,7 +159,7 @@ margin: 2.5rem
   width:auto;
 
 
-  background-color:  #4592af;
+  background-color:  #66bfbf;
   padding: 2.5rem 2.5rem 2.5rem 2.5rem;
   margin-top: 2rem;
 
@@ -151,6 +185,7 @@ margin: 2.5rem
   font-family: 'M PLUS Rounded 1c', sans-serif;
   color: grey;
   margin: auto;
+
   line-height: 2;
   padding:2.5rem;
 }
@@ -163,6 +198,7 @@ margin-top: 15rem;
 }
 .twitter-image{
   width: 2rem;
+  margin: .5rem;
 }
 .works-tag{
   font-family: 'M PLUS Rounded 1c', sans-serif;
