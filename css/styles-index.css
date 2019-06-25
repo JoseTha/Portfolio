@@ -1,0 +1,172 @@
+a:hover {
+  color: #11999e;
+  text-align: center;
+}
+a{
+  color: grey;
+}
+body {
+  margin: auto;
+  text-align: center;
+}
+.boy-pic {
+  width: 10rem;
+  margin: auto;
+}
+
+.edu-cont{
+  width:8rem;
+  float: right;
+  position: relative;
+  right: 1.5rem;
+  bottom: 1rem;
+  }
+.edu-details{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: grey;
+  margin: 0rem 15rem 0rem 0rem;
+  padding-top: 4rem;
+}
+.experience{
+  width: 45rem;
+  margin: auto;
+}
+.fb-image{
+  width: 2rem;
+
+}
+
+.fourth-container {
+  width: 65rem;
+  margin: auto;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: grey;
+  padding: 1.5rem;
+
+
+}
+.fifth-container{
+width: 65rem;
+margin: 3rem auto 5rem auto;
+text-align: right;
+padding: 1.5rem;
+
+}
+hr {
+  border-color: silver;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: .3125rem;
+  width: 4rem;
+  margin-top: 2.5rem;
+
+}
+h2 {
+  margin: auto;
+  color: #66bfbf;
+  padding-top: 3.75rem;
+  font-family: 'Kaushan Script', serif;
+  font-size: 5rem;
+
+}
+h3 {
+  color: #05a19c;
+  font-family: 'Pompiere', sans-serif;
+  font-size: 2.5rem;
+  margin: auto;
+}
+h4 {
+  color: #66bfbf;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+.Introduction {
+  margin-top: 2.5rem;
+  background-color: #3bb4c1;
+}
+.linkedin-image{
+  width: 2rem;
+}
+.left-cloud {
+  position: absolute;
+}
+.monitor-image {
+float: left;
+width: 10rem;;
+margin: 2.5rem
+}
+.modfurn{
+    background-color: #ee4540;
+}
+.mountain {
+  width: 45rem;
+}
+.notebook-image{
+  width: 10rem;
+  float: right;
+}
+.right-cloud {
+  position: absolute;
+  right: 18.75rem ;
+}
+.second-container {
+  width:auto;
+  background-color: #048998;
+  padding-top: 6.25rem;
+  position: relative;
+}
+.skill-paragraph{
+
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: grey;
+  line-height: 2;
+  text-align: left;
+}
+.sixth-container{
+  width:auto;
+
+
+  background-color:  #4592af;
+  padding: 2.5rem 2.5rem 2.5rem 2.5rem;
+  margin-top: 2rem;
+
+}
+.skill-table {
+  padding: 2.5rem;
+}
+.skill-align {
+  text-align: left;
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  line-height: 2;
+}
+.skill-list {
+  color: #05a19c;
+
+}
+.skillset{
+  width: auto;
+  margin-left: 17.5rem;
+
+}
+.third-container {
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: grey;
+  margin: auto;
+  line-height: 2;
+  padding:2.5rem;
+}
+.technicalskill{
+  float:left;
+  margin-left: 1.5rem;
+position:absolute;
+margin-top: 15rem;
+
+}
+.twitter-image{
+  width: 2rem;
+}
+.works-tag{
+  font-family: 'M PLUS Rounded 1c', sans-serif;
+  color: #05a19c;
+  position:absolute;
+  right: 7.5rem;
+}
